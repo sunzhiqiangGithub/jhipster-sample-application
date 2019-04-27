@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "cn.com.sunzhiqiang",
+    "packageFolder": "cn/com/sunzhiqiang",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YzM5OGFiOWEzNmExNzc0NmZmN2ZkNjVjOTUyZGY3YmE3NmQ4MWUyOGJmZjc5ZjgxZGFhNzJlZTUwOThkYTkwZGQyZjkyNDdiY2NiZmFkZTFhODdlNGY4ODZjYTA5YzU4ZjFjY2YxOWMwZDAzZjVlOTk5Y2NlYzAzZTdkYmE3OTQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sunzhiqiangGithub",
+  "repository-name": "jhipster-sample-application"
+}
